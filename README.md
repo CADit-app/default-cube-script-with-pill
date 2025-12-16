@@ -5,7 +5,7 @@ Just a default cube script, uploaded as a test.
 ## Installation
 
 ```bash
-npm install github:cadit-app/default-cube-script-with-pill#v1.0.0
+npm install github:cadit-app/default-cube-script-with-pill#v1.0.1
 ```
 
 ## Usage
@@ -16,4 +16,4 @@ import { /* your exports */ } from '@cadit-app/default-cube-script-with-pill';
 
 ## License
 
-MIT
+mit
