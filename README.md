@@ -1,17 +1,17 @@
-# Default cube script
+# Default cube script with pill
 
 Just a default cube script, uploaded as a test.
 
 ## Installation
 
 ```bash
-npm install github:cadit-app/default-cube-script#v1.0.0
+npm install github:cadit-app/default-cube-script-with-pill#v1.0.0
 ```
 
 ## Usage
 
 ```typescript
-import { /* your exports */ } from '@cadit-app/default-cube-script';
+import { /* your exports */ } from '@cadit-app/default-cube-script-with-pill';
 ```
 
 ## License

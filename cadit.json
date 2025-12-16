@@ -1,16 +1,17 @@
 {
   "entryPoint": "main.ts",
-  "name": "Default cube script",
+  "name": "Default cube script with pill",
   "description": "Just a default cube script, uploaded as a test.",
   "images": [
     {
-      "path": "images/thumbnail.png",
+      "path": "images/thumbnail-A3W4G1fG.png",
       "isPrimary": true
     }
   ],
   "metadata": {
-    "createdAt": "2025-12-16T15:10:36.659Z",
+    "createdAt": "2025-12-16T15:39:13.628Z",
     "createdWith": "cadit-web",
-    "designId": "HXnVKMmdROBcqgf"
+    "designId": "OW20r3IJFhLB4P4",
+    "remixedFrom": "HXnVKMmdROBcqgf"
   }
 }

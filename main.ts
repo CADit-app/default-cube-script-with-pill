@@ -4,6 +4,7 @@
 
 // Example: Cube with a cylindrical hole
 import { Manifold } from 'manifold-3d/manifoldCAD';
+import pillShape from './pill'
 
 // Create a 20x20x20mm centered cube
 const cube = Manifold.cube([20, 20, 20], true)
@@ -15,7 +16,7 @@ const cylinder = Manifold.cylinder(25, 5);
 const difference = cube.subtract(cylinder);
 
 // Export the result variable to render it
-export const result = difference;
+export const result = difference.add(pillShape);
 
 /*
   💡 TIP: Type 'Manifold.' to see all available methods with autocomplete!
