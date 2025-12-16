@@ -5,7 +5,7 @@ Just a default cube script, uploaded as a test.
 ## Installation
 
 ```bash
-npm install github:cadit-app/default-cube-script-with-pill#v1.0.2
+npm install github:cadit-app/default-cube-script-with-pill#v1.0.3
 ```
 
 ## Usage
